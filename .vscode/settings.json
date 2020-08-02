@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.asm": "c++",
+        "cstdlib": "cpp"
+    }
+}
